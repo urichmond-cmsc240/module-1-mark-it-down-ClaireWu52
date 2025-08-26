@@ -2,3 +2,17 @@
 [REPLACE ME!] 
 
 Add your profile details here
+
+# Claire Wu
+**eid: cwu2 | Username: ClaireWu52**
+
+*Pronouns: (she/her) | Class of 2028 - Math*
+
+---
+Hobbies:
+- swimming
+- sudoku
+- ?
+
+Favorite Movie/Song/Game:
+[Spy × Family](https://www.youtube.com/watch?v=AjMKfW1EZQ0)
