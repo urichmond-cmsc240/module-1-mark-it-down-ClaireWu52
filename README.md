@@ -2,10 +2,13 @@
 ![Claire](https://github.com/user-attachments/assets/ea5089a6-2746-4275-8371-27aef1fd52c0)
 
 **eid: cwu2** 
+
 **Username: ClaireWu52**
 
 *Pronouns: (she/her)*
+
 *Class of 2028*
+
 *Math*
 
 ---
