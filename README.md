@@ -9,7 +9,7 @@
 
 *Class of 2028*
 
-*Math*
+*Major: Math*
 
 ---
 Hobbies:
