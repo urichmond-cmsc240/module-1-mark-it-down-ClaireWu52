@@ -1,13 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BpXStGJy)
-[REPLACE ME!] 
-
-
 # Claire Wu
 ![Claire](https://github.com/user-attachments/assets/ea5089a6-2746-4275-8371-27aef1fd52c0)
 
-**eid: cwu2 | Username: ClaireWu52**
+**eid: cwu2** 
+**Username: ClaireWu52**
 
-*Pronouns: (she/her) | Class of 2028 - Math*
+*Pronouns: (she/her)*
+*Class of 2028*
+*Math*
 
 ---
 Hobbies:
